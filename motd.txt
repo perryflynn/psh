@@ -1,0 +1,5 @@
+
+[b]Welcome to {hostname}! Logon time: {date}[/b]
+[b]Type[/b] [color fg=red style=bold]help[/color] [b]for a list of available commands.[/b]
+
+[color fg=red style=bold]Note: Your IP will logged for security reasons.[/color]
