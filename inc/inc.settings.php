@@ -7,3 +7,7 @@ $commands = array(
    "Fakes",
    "Help",
 );
+
+// Enable logging
+define("PSH_CONFIG_LOG", true);
+
